@@ -44,7 +44,4 @@ Full Stack Amazon Clone along with Admin Panel
 **Server**: Node.js, Express, Mongoose, MongoDB, Cloudinary
 
 **Client**: Flutter, Provider
-    
-## Feedback
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
